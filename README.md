@@ -96,4 +96,12 @@ Day 16
 -**Assignment Completed**:
     [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/DSA/LinkedList] (./Day16/LinkedList)
 
+
+ Day 17
+
+ -**Topics Covered**: Stack, Queue, HashMap and Hashing Function
+
+ --**Assignment Completed**: 
+    [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/DSA/Stacks_Queues_HashMaps_HashFunctions] (./Day17/Stacks_Queues_HashMaps_HashFunctions)
+
   
