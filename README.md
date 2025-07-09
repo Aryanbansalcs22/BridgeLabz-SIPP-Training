@@ -104,4 +104,11 @@ Day 16
  --**Assignment Completed**: 
     [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/DSA/Stacks_Queues_HashMaps_HashFunctions] (./Day17/Stacks_Queues_HashMaps_HashFunctions)
 
+
+Day 18
+ --**Topics Covered**:  Bubble Sort, Insertion Sort, Merge Sort, Quick Sort.
+
+  --**Assignment Completed**:
+   [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/DSA/Sorting_Algorithms] (./Day18/Sorting_Algorithms)
+
   
