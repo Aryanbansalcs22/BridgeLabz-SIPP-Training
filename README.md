@@ -106,6 +106,8 @@ Day 16
 
 
 Day 18
+
+
  --**Topics Covered**:  Bubble Sort, Insertion Sort, Merge Sort, Quick Sort.
 
   --**Assignment Completed**:
