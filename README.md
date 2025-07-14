@@ -122,3 +122,13 @@ Day 19
 
 --**Assignment Completed**:
    [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/DSA/String_IO_Search_Problems_Java] (./Day19/String_IO_Search_Problems_Java)
+
+
+
+ Day 20
+
+
+--**Topics Covered**: StringBuilder, StringBuffer,  FileReader, InputStreamReader, Linear Search , Binary Search.
+
+--Assignment Completed**:
+ [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/DSA/Big-O-Notation_Problems] (./Day20/Big-O-Notation_Problems)
