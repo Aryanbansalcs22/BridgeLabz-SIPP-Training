@@ -114,4 +114,11 @@ Day 18
   --**Assignment Completed**:
    [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/DSA/Sorting_Algorithms] (./Day18/Sorting_Algorithms)
 
-  
+
+Day 19
+
+
+--**Topics Covered**: General Algorithm Best Practices, Time and space Complexity Optimization.
+
+--**Assignment Completed**:
+   [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/DSA/String_IO_Search_Problems_Java] (./Day19/String_IO_Search_Problems_Java)
