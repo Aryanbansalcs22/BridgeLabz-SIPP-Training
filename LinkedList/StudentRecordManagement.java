@@ -1,6 +1,4 @@
-package Day2;
-
-public class StudentRecordManagement {
+class StudentRecordManagement {
 	static class Student{
 		String name;
 		int roll_number;
