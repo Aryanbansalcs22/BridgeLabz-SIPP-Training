@@ -132,3 +132,10 @@ Day 19
 
 --Assignment Completed**:
  [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/DSA/Big-O-Notation_Problems] (./Day20/Big-O-Notation_Problems)
+
+
+ Branch Workshop
+
+
+ --**Assignment Completed**:
+  [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Workshop/Day2/com] (./Day21/Workshop Day2)
