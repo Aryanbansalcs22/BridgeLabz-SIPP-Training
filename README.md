@@ -134,9 +134,24 @@ Day 19
  [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/DSA/Big-O-Notation_Problems] (./Day20/Big-O-Notation_Problems)
 
 
- Branch Workshop
+
+ Branch DSA
+
 
 Day 21
 
  --**Assignment Completed**:
   [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Workshop/Day2/com] (./Day21/Workshop Day2)
+
+
+
+
+  Branch DSA
+
+
+  Day 22
+
+  --**Topics Covered**: Generics , Types of Generics.
+
+  --**Assignment Completed**:
+   [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/DSA/Generics] (./Day22/Generics)
