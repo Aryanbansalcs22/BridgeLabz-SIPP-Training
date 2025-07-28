@@ -154,4 +154,4 @@ Day 21
   --**Topics Covered**: Generics , Types of Generics.
 
   --**Assignment Completed**:
-   [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/DSA/Generics] (./Day22/Generics)
+   [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Generics_and_Collection/Generics] (./Day22/Generics)
