@@ -135,7 +135,7 @@ Day 19
 
 
 
- Branch DSA
+ Branch Workshop
 
 
 Day 21
@@ -146,7 +146,7 @@ Day 21
 
 
 
-  Branch DSA
+  Branch Generics_and_Collection
 
 
   Day 22
@@ -155,3 +155,13 @@ Day 21
 
   --**Assignment Completed**:
    [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Generics_and_Collection/Generics] (./Day22/Generics)
+
+
+
+
+   Day 23
+
+   --**Topics Covered**: 
+
+   --**Assignment Completed**:
+    [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Generics_and_Collection/Collections] (./Day23/Collection)
