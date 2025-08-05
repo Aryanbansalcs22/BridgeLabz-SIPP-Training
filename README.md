@@ -161,7 +161,27 @@ Day 21
 
    Day 23
 
-   --**Topics Covered**: 
+   --**Topics Covered**:     Overview of Collections Framework , Hierarchy of Collections Framework, List Interface and Implementing Classes,  Set Interface and Implementing Classes, Queue and Deque Interfaces
 
    --**Assignment Completed**:
     [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Generics_and_Collection/Collections] (./Day23/Collection)
+
+
+
+    Day 24
+
+    --**Topics Covered**:
+
+
+    --**Assignment Completed**:
+     [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Generics_and_Collection/Exception_Handling] (./Day24/Exception Handling)
+
+
+
+     Day  25
+
+     --**Topics Covered**:
+
+
+     --**Assignment Completed**:
+      [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Generics_and_Collection/Java_Streams] (./Day25/Java Streams)
