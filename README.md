@@ -167,21 +167,20 @@ Day 21
     [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Generics_and_Collection/Collections] (./Day23/Collection)
 
 
+ Day 24
 
-    Day 24
-
-    --**Topics Covered**:
-
-
-    --**Assignment Completed**:
-     [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Generics_and_Collection/Exception_Handling] (./Day24/Exception Handling)
+ --**Topics Covered**:
 
 
-
-     Day  25
-
-     --**Topics Covered**:
+--**Assignment Completed**:    
+    [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Generics_and_Collection/Exception_Handling] (./Day24/Exception Handling)
 
 
-     --**Assignment Completed**:
+
+  Day  25
+
+--**Topics Covered**:
+
+
+  --**Assignment Completed**:
       [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Generics_and_Collection/Java_Streams] (./Day25/Java Streams)
