@@ -184,3 +184,25 @@ Day 21
 
   --**Assignment Completed**:
       [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Generics_and_Collection/Java_Streams] (./Day25/Java Streams)
+
+
+Branch Pseudocode
+
+Week1_Day1 - [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Pseudocode/Week1_Day1]
+
+Week1_Day2 - [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Pseudocode/Week1_Day2]
+
+Week1_Day3 - [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Pseudocode/Week1_Day3]
+
+Week1_Day4 - [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Pseudocode/Week1_Day4]
+
+Week1_Day5 - [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Pseudocode/Week1_Day5]
+
+Week2_Day1 - [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Pseudocode/Week2_Day1]
+
+
+
+
+
+
+
