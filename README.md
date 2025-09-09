@@ -202,6 +202,61 @@ Week2_Day1 - [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/P
 
 
 
+Branch Generics_and_Collection
+
+
+Day 26 
+
+--**Topics Covered**: Regex
+
+--**Assignment Covered**:
+  [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Generics_and_Collection/Regex] (./Day26/Regex)
+
+
+
+Day 27
+
+--**Topics Covered**: Lambda Function
+
+--**Assignmnet Covered**:
+  [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Generics_and_Collection/Lambda_Function] (./Day27/Lambda_Function)
+
+
+Branch Stream_and_Collectors
+
+
+Day 28
+
+--**Topics Covered**: Functional Interfaces
+
+--**Assignment Covered**:
+  [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Streams_and_Collectors/FunctionalInterfaces] (./Day28/FunctionalInterfaces)
+
+
+
+Day 29 
+
+--**Topics Covered**: StreamAPI
+
+--**Assignment Covered**:
+  [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Streams_and_Collectors/StreamAPI] (./Day29/StreamAPI)
+
+
+
+Day 30
+
+--**Topics Covered**: Collectors
+
+--**Assignment Covered**:
+  [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Streams_and_Collectors/Collectors] (./Day30/Collectors)
+  
+  
+  
+
+  
+
+
+
 
 
 
