@@ -249,6 +249,14 @@ Day 30
 
 --**Assignment Covered**:
   [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Streams_and_Collectors/Collectors] (./Day30/Collectors)
+
+
+
+Branch Workshop
+
+--**Assignment Covered**:
+  [https://github.com/Aryanbansalcs22/BridgeLabz-SIPP-Training/tree/Workshop/Workshop_Day3] 
+  
   
   
   
